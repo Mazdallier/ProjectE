@@ -12,7 +12,7 @@ item.pe_fuel_mobius.name=Combustible Mobius
 item.pe_fuel_aeternalis.name=Combustible Aeternalis
 item.pe_covalence_dust_low.name=Poudre de basse Covalence
 item.pe_covalence_dust_medium.name=Poudre de moyenne Covalence
-item.pe_covalence_dust_high.name=Poubre de haute Covalence
+item.pe_covalence_dust_high.name=Poudre de haute Covalence
 item.pe_matter_dark.name=Matière noire
 item.pe_matter_red.name=Matière rouge
 item.pe_ring_iron_band.name=Bracelet de fer
@@ -156,9 +156,9 @@ pe.command.main.usage=/projecte <changelog, clearKnowledge, setEMC, reloadEMC, r
 
 pe.command.changelog.uptodate=ProjectE est à jour.
 pe.command.clearknowledge.error=Impossible d'effacer les connaissances pour: %s
-pe.command.clearknowledge.notify=Vos connaissances de transmutation ont été éffacées par %s!
+pe.command.clearknowledge.notify=Vos connaissances de transmutation ont été effacées par %s!
 pe.command.clearknowledge.playernotfound=Impossible de trouver le nom du joueur: %s
-pe.command.clearknowledge.success=Connaissances éffacées pour: %s
+pe.command.clearknowledge.success=Connaissances effacées pour: %s
 pe.command.clearknowledge.usage=/projecte clearKnowledge [username] (no params to target self)
 
 pe.command.reload.started=Rechargement des EMC enregistrés...
@@ -182,9 +182,9 @@ pe.command.set.success=Les EMC passe de %s à %s!
 pe.command.set.usage=/projecte setEMC [unlocalized | oredict name] [meta] [EMC value], /projecte setEMC [EMC value] (for held item)
 
 pe.darkpick.mode1=Standard
-pe.darkpick.mode2=3x TirHaut
-pe.darkpick.mode3=3x TirLarge
-pe.darkpick.mode4=3x TirLong
+pe.darkpick.mode2=3x Tir Haut
+pe.darkpick.mode3=3x Tir Large
+pe.darkpick.mode4=3x Tir Long
 
 pe.divining.avgemc=EMC moyen pour %s blocs: %s
 pe.divining.maxemc=EMC Max: %s
@@ -240,7 +240,7 @@ pe.harvestgod.pedestal1=Accélère la croissance des cultures proches
 pe.harvestgod.pedestal2=Récoltes des cultures à proximité
 pe.harvestgod.pedestal3=Active tous les %s
 
-pe.ignition.pedestal1=Les montres proches prennent feu
+pe.ignition.pedestal1=Les monstres proches prennent feu
 pe.ignition.pedestal2=Active tous les %s
 
 pe.item.mode=Mode
@@ -282,9 +282,9 @@ pe.philstone.mode3=Ligne
 pe.philstone.tooltip1=Appuyez sur %s pour ouvrir une grille de craft
 
 pe.redpick.mode1=Standard
-pe.redpick.mode2=3x TirHaut
-pe.redpick.mode3=3x TirLarge
-pe.redpick.mode4=3x TirLong
+pe.redpick.mode2=3x Tir Haut
+pe.redpick.mode3=3x Tir Large
+pe.redpick.mode4=3x Tir Long
 
 pe.redsword.mode1=Tuez les hostiles
 pe.redsword.mode2=Tuez tout
@@ -294,7 +294,7 @@ pe.relay.mk2=Relais MKII
 pe.relay.mk3=Relais MKIII
 
 pe.repairtalisman.pedestal1=Répares les items des joueurs à proximité
-pe.repairtalisman.pedestal2=Restaure 1 durabilité chaque %s
+pe.repairtalisman.pedestal2=Restaure 1 de durabilité chaque %s
 
 pe.server.high_alchemist=Le Full Metal Alchimiste
 pe.server.has_joined=a rejoint le serveur
