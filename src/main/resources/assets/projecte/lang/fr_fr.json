@@ -45,18 +45,18 @@
     "item.projecte.swiftwolf_rending_gale": "Grand vent déchirant du loup agile",
     "item.projecte.mercurial_eye": "Oeil Mercuriel",
     "item.projecte.watch_of_flowing_time": "Montre du temps qui coule",
-    "item.projecte.gem_of_eternal_density": "Gemme de la densité eternel",
+    "item.projecte.gem_of_eternal_density": "Gemme de la densité éternelle",
     "item.projecte.divining_rod_1": "Baguette de sourcier (Faible)",
     "item.projecte.divining_rod_2": "Baguette de sourcier (Moyenne)",
     "item.projecte.divining_rod_3": "Baguette de sourcier (Haute)",
-    "item.projecte.destruction_catalyst": "Cataliseur de déstruction",
+    "item.projecte.destruction_catalyst": "Cataliseur de destruction",
     "item.projecte.hyperkinetic_lens": "Lentille hyperkinétique",
     "item.projecte.catalytic_lens": "Lentille catalytique",
     "item.projecte.lens_explosive": "Lentille explosive",
     "item.projecte.water_orb": "Orbe d'eau",
     "item.projecte.lava_orb": "Orbe de lave",
-    "item.projecte.randomizer": "Orbe de la RANDOMISATION",
-    "item.projecte.loot_ball": "Boule de loot",
+    "item.projecte.randomizer": "Orbe de l'aléatoire",
+    "item.projecte.loot_ball": "Boule de butin",
     "item.projecte.dm_pick": "Pioche de matière noire",
     "item.projecte.dm_axe": "Hache de matière noire",
     "item.projecte.dm_shovel": "Pelle de matière noire",
@@ -72,8 +72,8 @@
     "item.projecte.rm_shears": "Cisaille de matière rouge",
     "item.projecte.rm_hammer": "Marteau de matière rouge",
     "item.projecte.rm_katar": "Katar rouge",
-    "item.projecte.rm_morning_star": "L'étoiledumatin rouge",
-    "item.projecte.dm_boots": "Bottes de matière noire",
+    "item.projecte.rm_morning_star": "L'étoile du matin rouge",
+    "item.projecte.dm_boots": "Bottes de matière noire",e
     "item.projecte.dm_leggings": "Jambière de matière noire",
     "item.projecte.dm_chestplate": "Plastron de matière noire",
     "item.projecte.dm_helmet": "Casque de matière noire",
@@ -138,11 +138,11 @@
     "advancements.pe_dark_matter": "Toutes cette matière.",
     "advancements.pe_dark_matter.desc": "Ça à l'air... bizarre....",
     "advancements.pe_red_matter": "Encore plus de matières!",
-    "advancements.pe_red_matter.desc": "L'espace-temps à été brisé.",
+    "advancements.pe_red_matter.desc": "L'espace-temps a été brisé.",
     "advancements.pe_dm_block": "Une bloc de matière!",
-    "advancements.pe_dm_block.desc": "Bourer la matière ensemble. Parceque c'est fun.",
+    "advancements.pe_dm_block.desc": "Tasser la matière ensemble. Parceque c'est fun.",
     "advancements.pe_rm_block": "Rouge et brillant!",
-    "advancements.pe_rm_block.desc": "Maintenant tu va quelque part!",
+    "advancements.pe_rm_block.desc": "Maintenant tu vas quelque part!",
     "advancements.pe_dm_furnace": "Matière chaude!",
     "advancements.pe_dm_furnace.desc": "Un four c'est mieux quand c'est fait avec de la matière noire.",
     "advancements.pe_rm_furnace": "Matière encore plus chaude!",
@@ -156,7 +156,7 @@
     "advancements.pe_klein_big": "Très grosse batterie à EMC",
     "advancements.pe_klein_big.desc": "L'univers dans ta poche.",
 
-    "pe.arcana.mode.0": "Zero",
+    "pe.arcana.mode.0": "Zéro",
     "pe.arcana.mode.1": "Arcanes",
     "pe.arcana.mode.2": "Récolte",
     "pe.arcana.mode.3": "SWRG",
@@ -173,13 +173,13 @@
 
     "pe.command.changelog.uptodate": "ProjectE est à jour.",
     "pe.command.clearknowledge.error": "Impossible d'effacer les connaissances pour: %s",
-    "pe.command.clearknowledge.notify": "Vos connaissances de transmutation ont été éffacées par %s!",
+    "pe.command.clearknowledge.notify": "Vos connaissances de transmutation ont été effacées par %s!",
     "pe.command.clearknowledge.playernotfound": "Impossible de trouver le nom du joueur: %s",
-    "pe.command.clearknowledge.success": "Connaissances éffacées pour: %s",
+    "pe.command.clearknowledge.success": "Connaissances effacées pour: %s",
 
     "pe.command.reload.notice": "Redémarrer ou utiliser \"/reload\" quand tout les changements sont complets.",
 
-    "pe.command.remove.noitem": "S'il vous plaît, donnez un item à changer",
+    "pe.command.remove.noitem": "S'il vous plaît, donnez un élément à changer",
     "pe.command.remove.invaliditem": "Erreur: Cet \"%s\" n'a pas été trouvé!",
     "pe.command.remove.success": "Valeur EMC retiré pour %s.",
 
@@ -187,7 +187,7 @@
     "pe.command.reset.success": "Valeur EMC réinitialiser pour %s.",
 
     "pe.command.set.invalidemc": "Erreur: Cette valeur EMC \"%s\" n'est pas valide!",
-    "pe.command.set.invaliditem": "Erreur: Cet item \"%s\" n'a pas été trouvé!",
+    "pe.command.set.invaliditem": "Erreur: Cet élément \"%s\" n'a pas été trouvé!",
     "pe.command.set.success": "Fixer la valeur EMC de %s à %s!",
 
     "pe.command.showbag.notplayer": "Impossible de montrer le contenu du sac à un non-joueur",
@@ -213,7 +213,7 @@
     "pe.emc.maxstorage_tooltip": "Quantité maximum:",
     "pe.emc": "EMC",
     "pe.emc.rate": "EMC/s",
-    "pe.emc.stackemc_tooltip_prefix": "Stack d'EMC:",
+    "pe.emc.stackemc_tooltip_prefix": "Pile d'EMC:",
     "pe.emc.storedemc_tooltip": "EMC stockés:",
     "pe.emc.too_much": "BEAUCOUP TROP",
     "pe.emc.postfix.0": "Billion",
@@ -221,9 +221,9 @@
     "pe.emc.postfix.2": "Quintillion",
     "pe.emc.has_knowledge": "Transmutable",
 
-    "pe.evertide.tooltip1": "Appuyez sur %s pour tirer un projectile d'eau",
-    "pe.evertide.tooltip2": "Agit comme un seau d'eau infinie",
-    "pe.evertide.tooltip3": "Faites un clic droit pour remplir les réservoirs et les chaudrons",
+    "pe.evertide.tooltip1": "Appuyez sur %s pour tirer un jet d'eau",
+    "pe.evertide.tooltip2": "Agit comme un seau d'eau infini",
+    "pe.evertide.tooltip3": "Faites un clique-droit pour remplir les réservoirs et les chaudrons",
     "pe.evertide.tooltip4": "Toutes les opérations sont totalement gratuites !",
     "pe.evertide.pedestal1": "Créer des tempêtes de pluie/neige",
     "pe.evertide.pedestal2": "Tentatives de démarrage de la pluie toutes les %s",
@@ -232,12 +232,12 @@
     "pe.gem.enabled": "ACTIVER",
 
     "pe.gem.activate": "Activation des capacités offensives de l'armure de gemmes",
-    "pe.gem.deactivate": "Desactivation des capacités offensives de l'armure de gemmes",
+    "pe.gem.deactivate": "Désactivation des capacités offensives de l'armure de gemmes",
 
     "pe.gem.helm.lorename": "Casque Abyssal",
     "pe.gem.chest.lorename": "Armure Infernale",
     "pe.gem.legs.lorename": "Jambière de Gravité",
-    "pe.gem.feet.lorename": "Bottes de l'ouragan",
+    "pe.gem.feet.lorename": "Bottes de l'Ouragan",
 
     "pe.gem.nightvision_tooltip": "Vision nocturne:",
     "pe.gem.nightvision.prompt": "Appuyez sur %s + %s pour alterner la vision nocturne",
@@ -246,11 +246,11 @@
 
     "pe.gemdensity.blacklist": "Liste noire",
     "pe.gemdensity.mode_switch": "Mettre la cible à",
-    "pe.gemdensity.tooltip1": "Condense les items sur le pouce",
-    "pe.gemdensity.tooltip2": "Cible courrante: %s",
+    "pe.gemdensity.tooltip1": "Condense les éléments sur le pouce",
+    "pe.gemdensity.tooltip2": "Cible actuelle: %s",
     "pe.gemdensity.tooltip3": "Appuyez sur %s pour changer de cible",
-    "pe.gemdensity.tooltip4": "Faites un clic droit pour mettre en place une liste noire/blanche",
-    "pe.gemdensity.tooltip5": "Maj + clic droit pour activer/désactiver",
+    "pe.gemdensity.tooltip4": "Faites un clique-droit pour mettre en place une liste noire/blanche",
+    "pe.gemdensity.tooltip5": "Maj + clique-droit pour activer/désactiver",
     "pe.gemdensity.whitelist": "Liste blanche",
 
     "pe.harvestgod.pedestal1": "Accélère la croissance des cultures proches",
@@ -268,7 +268,7 @@
 
     "key.projecte.armor_toggle": "Effets de l'armure",
     "key.projecte.charge": "Charge",
-    "key.projecte.extra_function": "Extra Fonction",
+    "key.projecte.extra_function": "Fonction Extra",
     "key.projecte.fire_projectile": "Projectiles enflammés",
     "key.projecte.mode": "Changer de mode",
 
@@ -290,13 +290,13 @@
     "pe.pedestal.item_disabled": "Les fonctions du piédestal ont été désactivée!",
     "pe.pedestal.on_pedestal": "Sur le piédestal:",
     "pe.pedestal.shortname": "Piédestal MN",
-    "pe.pedestal.tooltip1": "Clic droit pour insèrer un objet, clique gauche pour le retirer.",
-    "pe.pedestal.tooltip2": "Clic droit avec une main vide pour activer!",
+    "pe.pedestal.tooltip1": "Clique-droit pour insérer un objet, clique gauche pour le retirer.",
+    "pe.pedestal.tooltip2": "Clique-droit avec une main vide pour activer!",
 
     "pe.philstone.mode1": "Cube",
     "pe.philstone.mode2": "Panneau",
     "pe.philstone.mode3": "Ligne",
-    "pe.philstone.tooltip1": "Appuyez sur %s pour ouvrir une grille de craft",
+    "pe.philstone.tooltip1": "Appuyez sur %s pour ouvrir une grille de création",
 
     "pe.redpick.mode1": "Standard",
     "pe.redpick.mode2": "3x Tir Haut",
@@ -310,7 +310,7 @@
     "pe.relay.mk2": "Relais MKII",
     "pe.relay.mk3": "Relais MKIII",
 
-    "pe.repairtalisman.pedestal1": "Répares les items des joueurs à proximité",
+    "pe.repairtalisman.pedestal1": "Répares les éléments des joueurs à proximité",
     "pe.repairtalisman.pedestal2": "Restaure 1 de durabilité toutes les %s",
 
     "pe.server.high_alchemist": "Le Grand Alchimiste",
@@ -326,16 +326,16 @@
     "pe.timewatch.ff": "Avance rapide",
     "pe.timewatch.mode": "Mode de commande de temps : %s",
     "pe.timewatch.mode_switch": "Mode de contrôle de temps sur : %s",
-    "pe.timewatch.off": "Off",
+    "pe.timewatch.off": "Arrêt",
     "pe.timewatch.rw": "Rembobinage",
     "pe.timewatch.tooltip1": "Devenir le maître du temps",
-    "pe.timewatch.tooltip2": "Clic droit pour changer de mode",
+    "pe.timewatch.tooltip2": "Clique-droit pour changer de mode",
     "pe.timewatch.pedestal1": "Donne %d ticks de bonus aux blocs proches, chaque tick",
     "pe.timewatch.pedestal2": "Chaque tick, les monstres à proximité se déplacent %.3f plus vite",
 
     "pe.tome.tooltip1": "Déverrouille toutes les connaissances de transmutation quand appris",
 
-    "pe.transmutation.already_using": "Quelqu'un est déjà entrain d'utiliser cette table de transmutation",
+    "pe.transmutation.already_using": "Quelqu'un est déjà en train d'utiliser cette table de transmutation",
     "pe.transmutation.transmute": "Transmutation",
     "pe.transmutation.learned0": "A",
     "pe.transmutation.learned1": "p",
@@ -357,9 +357,9 @@
     "pe.transmutation.unlearned8": "s",
 
     "pe.update.available": "Nouvelle version de ProjectE disponible! Version: %s",
-    "pe.update.getit": "Obtenez le ici!",
+    "pe.update.getit": "Obtenez-la ici!",
 
-    "pe.volcanite.tooltip1": "Appuyez sur %s pour tirer un projectile de lave",
+    "pe.volcanite.tooltip1": "Appuyez sur %s pour tirer un jet de lave",
     "pe.volcanite.tooltip2": "Agit comme seau de lave infini",
     "pe.volcanite.tooltip3": "Faites un clic droit pour remplir les réservoirs",
     "pe.volcanite.tooltip4": "Toutes les opérations coûtent 32 EMC !",
@@ -377,7 +377,7 @@
     "pe.jei.collector": "Amélioration du collecteur",
 
     "pe.manual.index": "Index",
-    "pe.manual.index_button": "ToC",
+    "pe.manual.index_button": "TdM",
 
     "_comment": "ItemPages bodies",
     "pe.manual.pe_alchemical_bag": "Un alchimiste en activité comme vous n'a pas le temps de constemment soulever et reposer un coffre alchimique. En soupoudrant une poudre de haute covalence sur un coffre alchimique et en l'emballant dans du tissu, vous avez réussi à reduire le coffre à la taille d'une bourse. Ce sac à les mêmes capacité que le coffre. Curieusement, les sacs semblent être liés à un réseau métaphysique puisque tous les sacs de la même couleur contiennent les même items, que ce soit le votre ou celui de votre voisin. Le sac semble aussi activer des objets magiques de la même manière que le coffre.",
@@ -415,7 +415,7 @@
     "pe.manual.pe_transmutation_stone": "La table de transmutation permet d'étudier la structure des matèriaux, et de briser les autres pour créer plus d'entre eux. La terre va dedans, les diamants en sortent!",
 
     "_comment": "TextPages headers and bodies",
-    "pe.manual.introduction": "En ouvrant ce livre vous avez commencée votre première étape pour devenir un Grand Alchimiste. Vous êtes peut-être las de faire toujours les mêmes tâches pénibles tous les jours dans votre monde, ou vous désirez simplement plus de puissance pour des fins..., ou vous aimeriez simplement l'utilitée et l'art de la magie à votre dispostion. Peu importe ce que vous pensez, l'alchimie est la pour assouvir vos besoins. Avant de commencer il est nécessaire de comprendre le passé... L'art de l'alchimie est connu depuis des temps ancestraux. Il a été découvert par un homme nommé x3n0ph0b3, et affiné grâce à de multiples itérations. Après la retraite de x3n0ph0b3, un nouvel apprenti, Pahimar, prit le dévelopement de cet art, mais beaucoup d'Alchimiste n'apprécié pas c'est nouvelle méthodes, une guerre éclata entre les deux côtés avec d'étranges chants sonores semblables à \"tricheurs paresseux\" et \"EE2 OP !!!!!!\" remplissant l'air. Les disciples de x3n0 disait que tout était perdu jusqu'à ce qu'un vagabonde du nom de MozeIntel les conduisit sous terre, il avait étudié et reproduit le travail de x3n0, ainsi l'art ancien vivait. Finalement, pour des raisons inconnues (motifs qu'il a étrangement décrit comme «IRL»), Moze pris sa retraite, laissant son travail à un apprenti enthousiaste, SinkillerJ. Sin a continué à apporter non seulement la paix aux deux parties leur permettant de coexister, mais pour former également un conseil d'alchimistes dédiés à la préservation de l'art ancien: Williewillus - Lord of Refactors Blubberbub - Alchemical Value Archivist Lilylicious - Lady of Little Big Things We, le conseil d'alchimistes, confèrent désormais sur vous notre connaissance la plus étendue des arts alchimiques, et vous accueillent, jeune alchimiste, dans le monde de ProjectE.",
+    "pe.manual.introduction": "En ouvrant ce livre vous avez commencé votre première étape pour devenir un Grand Alchimiste. Vous êtes peut-être las de faire toujours les mêmes tâches pénibles tous les jours dans votre monde, ou vous désirez simplement plus de puissance pour des fins..., ou vous aimeriez simplement l'utilitée et l'art de la magie à votre dispostion. Peu importe ce que vous pensez, l'alchimie est la pour assouvir vos besoins. Avant de commencer il est nécessaire de comprendre le passé... L'art de l'alchimie est connu depuis des temps ancestraux. Il a été découvert par un homme nommé x3n0ph0b3, et affiné grâce à de multiples itérations. Après la retraite de x3n0ph0b3, un nouvel apprenti, Pahimar, prit le dévelopement de cet art, mais beaucoup d'Alchimiste n'apprécié pas c'est nouvelle méthodes, une guerre éclata entre les deux côtés avec d'étranges chants sonores semblables à \"tricheurs paresseux\" et \"EE2 OP !!!!!!\" remplissant l'air. Les disciples de x3n0 disait que tout était perdu jusqu'à ce qu'un vagabonde du nom de MozeIntel les conduisit sous terre, il avait étudié et reproduit le travail de x3n0, ainsi l'art ancien vivait. Finalement, pour des raisons inconnues (motifs qu'il a étrangement décrit comme «IRL»), Moze pris sa retraite, laissant son travail à un apprenti enthousiaste, SinkillerJ. Sin a continué à apporter non seulement la paix aux deux parties leur permettant de coexister, mais pour former également un conseil d'alchimistes dédiés à la préservation de l'art ancien: Williewillus - Lord of Refactors Blubberbub - Alchemical Value Archivist Lilylicious - Lady of Little Big Things We, le conseil d'alchimistes, confèrent désormais sur vous notre connaissance la plus étendue des arts alchimiques, et vous accueillent, jeune alchimiste, dans le monde de ProjectE.",
     "pe.manual.introduction.header": "Introduction",
 
     "_comment": "ImagePage headers",
